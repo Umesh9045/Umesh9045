@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 My Portfolio [https://umesh9045.github.io/portfolio_2022/index.html](https://umesh9045.github.io/portfolio_2022/index.html)
+- 👨‍💻 My Portfolio [bit.ly/Umesh9045](https://umesh9045.github.io/portfolio_2022/index.html)
 
 - 💬 Ask me about **React, MySQL, MEARN**
 
